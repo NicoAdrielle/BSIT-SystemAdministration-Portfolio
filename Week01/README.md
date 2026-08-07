@@ -31,7 +31,7 @@
 
 # Professional Accounts
 
-- **GitHub:** https://https://github.com/NicoAdrielle
+- **GitHub:** https://github.com/NicoAdrielle
 - **LinkedIn:** https://www.linkedin.com/in/montorio-nico-adrielle-152809427/
 
 ---
