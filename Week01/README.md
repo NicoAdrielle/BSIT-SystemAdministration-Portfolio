@@ -56,25 +56,20 @@ Each screenshot displays:
 
 # Challenges Encountered
 
-### 1. Git Installation and Configuration
-During the installation of Git, I needed to configure the initial settings correctly to ensure it would work properly with GitHub Desktop. This was resolved by following the recommended installation options and verifying the installation through the command line.
+### 1. Installing Git
+I made sure to select the recommended settings while installing Git so it would link smoothly with GitHub Desktop, then tested it in the command line to confirm it worked.
 
 ### 2. Virtualization Setup
-Before using VirtualBox, virtualization needed to be enabled and properly configured on the computer. After checking the system settings and verifying hardware virtualization support, VirtualBox was able to run successfully.
+I had to check my system settings first to make sure hardware virtualization was turned on before VirtualBox would run correctly.
 
-### 3. Managing Installation Files
-Downloading multiple software installers and operating system ISO files required organizing the files efficiently. Creating dedicated folders for installers, ISOs, and screenshots made it easier to manage the required deliverables and keep the project organized.
+### 3. Managing Files
+Since I was downloading huge ISO files and software installers, I created dedicated folders for my downloads and screenshots to keep everything organized and easy to find.
 
 ---
 
 # Reflection
 
-Completing this activity gave me a better understanding of the importance of preparing a proper working environment before performing any system administration tasks. Installing and configuring Git, GitHub Desktop, Visual Studio Code, Oracle VirtualBox, Ubuntu Desktop, and Windows 11 Enterprise helped me become familiar with tools that are commonly used in both academic and professional settings.
-
-One of the key lessons I learned is that having the right tools installed is only the first step. Understanding the purpose of each application is equally important. Git and GitHub make it easier to manage versions of projects and collaborate with others, while Visual Studio Code provides a flexible environment for writing and editing code. VirtualBox allows me to create virtual machines where I can safely install and explore different operating systems without affecting my main system. This makes it possible to practice Linux administration, system configuration, and troubleshooting in a controlled environment.
-
-This activity also emphasized the value of organization and preparation. By setting up my workstation early, I will be able to focus more on learning new concepts instead of spending time configuring software during future laboratory exercises. As I continue this course, I hope to strengthen my skills in Linux, virtualization, networking, and version control. These tools will serve as the foundation for future activities and will help prepare me for the responsibilities of a System Administrator in real-world environments.
-
+This activity was a great lesson in why setting up your workspace early matters so much in system administration. Working through the installation of tools like Git, VS Code, VirtualBox, Ubuntu, and Windows 11 gave me a solid grasp of software used throughout the IT industry. The biggest takeaway for me was that installing software is just half the battle—you also need to know why you're using it. For example, VirtualBox gives me a safe sandbox to experiment with Linux without messing up my main computer. Getting my system ready today means I can dive straight into learning networking and virtualization later on, bringing me one step closer to working as a real-world sysadmin.
 ---
 
 # References
